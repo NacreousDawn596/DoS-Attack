@@ -22,7 +22,7 @@ def quit():
            
 def  select():
   try:
-        d3 = raw_input('Enter IP Or Domain : ')
+        d3 = raw_input('Enter IP -> : ')
         os.system("clear")
         os.system("figlet whois")
         os.system("curl http://api.hackertarget.com/whois/?q=" + d3)
