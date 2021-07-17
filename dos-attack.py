@@ -5,7 +5,7 @@ import socket
 import random
 d3=os.system("curl http://ipinfo.io/ip")
 os.system("clear && clear && clear")
-os.system("figlet NacreousDawn596")
+os.system("figlet DoS Attack")
 logo = '''
        }--{+} Coded By NacreousDawn596 {+}--{                           
      '''
