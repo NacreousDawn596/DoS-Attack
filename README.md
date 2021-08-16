@@ -1,6 +1,6 @@
 # DoS-Attack
 This is a python2 script that DoS every ip you want. 
-> NOTE : I'm not responsible about any accidente (like finding your ip somewhere or damaging the connexion.
+> NOTE : I'm not responsible about any accidente (like finding your ip somewhere or damaging the connexion). 
 ### REQUESTS :
 `git`, `python2`, `python-tk`, `curl`, `figlet`.
 ### HOW TO INSTALL :
